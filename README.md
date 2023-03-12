@@ -3,7 +3,7 @@
 * [Backtest](./backtest)
 * [Machine Learning and Deep Reinforcement Learning](./ml) 
 * [Online Resources](./Resources.md)
-* [Live Trading Demo Video](https://youtu.be/CrsrTxqiXNY)
+* [Trading Demo](https://youtu.be/CrsrTxqiXNY)
 
 ## Notebooks and Blogs
 
