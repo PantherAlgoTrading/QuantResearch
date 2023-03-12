@@ -1,3 +1,5 @@
+# Quant Research Resources
+
 * [Websites](#websites)
 * [Forums](#forums)
 * [Projects](#projects)
