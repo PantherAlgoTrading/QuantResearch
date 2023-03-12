@@ -1,4 +1,4 @@
-# QuantResearch
+# Quant Research Methods
 
 * [Backtest](./backtest)
 * [Machine Learning and Deep Reinforcement Learning](./ml) 
